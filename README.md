@@ -11,6 +11,7 @@ Codes and Project for Machine Learning Course, Fall 2018, University of Tabriz
 * Gradient descent algorithm
 * Multi-variable linear regression
 * Polynomial regression
+* Normal equation
 * Locally weighted regression
 * Probabilistic interpretation
 ### Chapter 3: Python and NumPy
