@@ -5,6 +5,12 @@ Course Website: http://www.snrazavi.ir/ml-2018/
 
 ## Contents:
 ### Chapter 2: Regression
+* Linear regression
+* Gradient descent algorithm
+* Multi-variable linear regression
+* Polynomial regression
+* Locally weighted regression
+* Probabilistic interpretation
 ### Chapter 3: Python and NumPy
 ### Chapter 4: Logistic Regression
 ### Chapter 5: Neural Networks
