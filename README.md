@@ -24,7 +24,7 @@ Codes and Project for Machine Learning Course, Fall 2018, University of Tabriz
 
 ## Assignments:
 1. Regression and Gradient Descent
-2. Claasification and Logistic Regression
+2. Classification and Logistic Regression
 3. Regularization
 4. Neural Networks Training
 5. Neural Networks Implementing
