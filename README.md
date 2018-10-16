@@ -5,6 +5,7 @@ Codes and Project for Machine Learning Course, Fall 2018, University of Tabriz
 * [YouTube Videos (in Persian)](https://www.youtube.com/playlist?list=PLW529xl11jnnupZKT5Og4pwHPoRFQRQz_)
 
 ## Contents:
+### Chapter 1: Introduction
 ### Chapter 2: Regression
 * Linear regression
 * Gradient descent algorithm
@@ -22,3 +23,11 @@ Codes and Project for Machine Learning Course, Fall 2018, University of Tabriz
 ### Chapter 11: Recommender Systems
 
 ## Assignments:
+1. Regression and Gradient Descent
+2. Claasification and Logistic Regression
+3. Regularization
+4. Neural Networks Training
+5. Neural Networks Implementing
+5. Clustering
+6. Dimensionallity Reduction and PCA
+7. Recommender Systems
