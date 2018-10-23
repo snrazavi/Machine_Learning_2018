@@ -15,6 +15,14 @@ Codes and Project for Machine Learning Course, Fall 2018, University of Tabriz
 * Locally weighted regression
 * Probabilistic interpretation
 ### Chapter 3: Python and NumPy
+* Python basics
+* Creating vectors and matrices in `numpy`
+* Reading and writing data from/to files
+* Matrix operations
+* Colon operator
+* Plotting
+* Control structures in python
+* Implementing linear regression cost function
 ### Chapter 4: Logistic Regression
 ### Chapter 5: Neural Networks
 ### Chapter 6: Support Vector Machines
