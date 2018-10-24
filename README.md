@@ -1,5 +1,5 @@
 # Machine_Learning_2018
-Codes and Project for Machine Learning Course, Fall 2018, University of Tabriz
+Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018).
 
 * [Course Website](http://www.snrazavi.ir/ml-2018/)
 * [YouTube Videos (in Persian)](https://www.youtube.com/playlist?list=PLW529xl11jnnupZKT5Og4pwHPoRFQRQz_)
