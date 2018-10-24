@@ -30,9 +30,10 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Logistic regression and gradient descent
 * Multi-class logistic regression
 * Advanced optimization methods
-### Chapter 5: Neural Networks
-### Chapter 6: Support Vector Machines
-### Chapter 7: Clustering
+### Chapter 5: Regularization
+### Chapter 6: Neural Networks
+### Chapter 7: Support Vector Machines
+### Chapter 8: Clustering
 ### Chapter 9: PCA
 ### Chapter 10: Anomally Detection
 ### Chapter 11: Recommender Systems
