@@ -50,7 +50,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Optimization: [Convex Optimization, Stephan Boyd, Stanford](http://web.stanford.edu/~boyd/cvxbook/)
 * Linear algebra: [pdf](http://www.snrazavi.ir/wp-content/uploads/2017/10/linalg.pdf)
 * Calculus: [Khan Accademy](https://www.khanacademy.org/math/multivariable-calculus)
-* Probability: [Khan Accademy]()
+* Probability: [Khan Accademy](https://www.khanacademy.org/math/statistics-probability)
 
 
 ## Assignments:
