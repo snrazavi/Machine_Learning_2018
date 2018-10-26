@@ -36,7 +36,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 #### Furthur Reading
   * [Artificial Intelligence: A Modern Approach (3rd Edition)](http://aima.cs.berkeley.edu/), pages 725-727
   * [An Introduction to Statistical Learning: with Applications in R](http://www.amazon.com/dp/1461471370?tag=inspiredalgor-20), pages 130-137
-  * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 199-228
+  * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 119-128
 
 ### Chapter 5: Regularization
 ### Chapter 6: Neural Networks
