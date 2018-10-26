@@ -21,7 +21,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Creating vectors and matrices in `numpy`
 * Reading and writing data from/to files
 * Matrix operations
-* Colon operator
+* Colon (:) operator
 * Plotting using `matplotlib`
 * Control structures in python
 * Implementing linear regression cost function
