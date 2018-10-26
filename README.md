@@ -46,6 +46,13 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 ### Chapter 10: Anomally Detection
 ### Chapter 11: Recommender Systems
 
+## Other Useful Resources
+* Optimization: [Convex Optimization, Stephan Boyd, Stanford](http://web.stanford.edu/~boyd/cvxbook/)
+* Linear algebra: [pdf](http://www.snrazavi.ir/wp-content/uploads/2017/10/linalg.pdf)
+* Calculus: [Khan Accademy](https://www.khanacademy.org/math/multivariable-calculus)
+* Probability: [Khan Accademy]()
+
+
 ## Assignments:
 1. Regression and Gradient Descent
 2. Classification and Logistic Regression
