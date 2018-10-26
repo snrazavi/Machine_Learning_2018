@@ -32,7 +32,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Logistic regression and gradient descent
 * Multi-class logistic regression
 * Advanced optimization methods
-* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/2Regression2018-1.pdf))
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/4Logistic-Regression_2018.pdf))
 ### Chapter 5: Regularization
 ### Chapter 6: Neural Networks
 ### Chapter 7: Support Vector Machines
