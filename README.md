@@ -33,6 +33,11 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Multi-class logistic regression
 * Advanced optimization methods
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/4Logistic-Regression_2018.pdf))
+#### Furthur Reading
+  * [Artificial Intelligence: A Modern Approach (3rd Edition)](http://aima.cs.berkeley.edu/), pages 725-727
+  * [An Introduction to Statistical Learning: with Applications in R](http://www.amazon.com/dp/1461471370?tag=inspiredalgor-20), pages 130-137
+  * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 199-228
+
 ### Chapter 5: Regularization
 ### Chapter 6: Neural Networks
 ### Chapter 7: Support Vector Machines
