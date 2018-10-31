@@ -46,7 +46,8 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Classification with regularization
 * Download slides in Persian ([pdf]()) ([video]())
 #### Furthur Reading
-
+ * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 61-68
+ 
 ### Chapter 6: Neural Networks
 ### Chapter 7: Support Vector Machines
 ### Chapter 8: Clustering
