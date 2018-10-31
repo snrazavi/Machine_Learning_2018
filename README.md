@@ -8,12 +8,12 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 ### Chapter 1: Introduction
 * download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/1Introduction2018.pdf)) ([video](https://youtu.be/kgwDP35InuQ))
 ### Chapter 2: Regression
-* Linear regression ([video](https://youtu.be/bcY2g2e4_6w))
+* Linear regression
 * Gradient descent algorithm ([video](https://youtu.be/LSOHgEDDN_Y))
-* Multi-variable linear regression ([video](https://youtu.be/bS5QFhQLQn8))
+* Multi-variable linear regression
 * Polynomial regression ([video](https://youtu.be/bS5QFhQLQn8))
-* Normal equation ([video](https://youtu.be/ye_cuOMJhSs))
-* Locally weighted regression ([video](https://youtu.be/ye_cuOMJhSs))
+* Normal equation
+* Locally weighted regression
 * Probabilistic interpretation ([video](https://youtu.be/ye_cuOMJhSs))
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/2Regression2018-1.pdf))
 ### Chapter 3: Python and NumPy
