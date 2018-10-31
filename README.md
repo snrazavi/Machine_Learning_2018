@@ -6,7 +6,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 
 ## Contents:
 ### Chapter 1: Introduction
-* download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/1Introduction2018.pdf))
+* download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/1Introduction2018.pdf)) ([video](https://youtu.be/kgwDP35InuQ)
 ### Chapter 2: Regression
 * Linear regression
 * Gradient descent algorithm
