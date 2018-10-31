@@ -32,7 +32,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Logistic regression and gradient descent
 * Multi-class logistic regression
 * Advanced optimization methods
-* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/4Logistic-Regression_2018-1.pdf))
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/4Logistic-Regression_2018-1.pdf)) ([video](https://youtu.be/QXfLd5AOgls))
 #### Furthur Reading
   * [Artificial Intelligence: A Modern Approach (3rd Edition)](http://aima.cs.berkeley.edu/), pages 725-727
   * [An Introduction to Statistical Learning: with Applications in R](http://www.amazon.com/dp/1461471370?tag=inspiredalgor-20), pages 130-137
