@@ -20,11 +20,11 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Python basics
 * Creating vectors and matrices in `numpy`
 * Reading and writing data from/to files
-* Matrix operations
+* Matrix operations ([video](https://youtu.be/F4eEBiDnx-o))
 * Colon (:) operator
-* Plotting using `matplotlib`
+* Plotting using `matplotlib` ([video](https://youtu.be/0yo2czPtOWY))
 * Control structures in python
-* Implementing linear regression cost function
+* Implementing linear regression cost function ([video](https://youtu.be/E-31_GpmVug))
 ### Chapter 4: Logistic Regression
 * Classification and logistic regression
 * Probabilistic interpretation
