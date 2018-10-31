@@ -44,6 +44,9 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * L1-Regularization (Lasso)
 * Regression with regularization
 * Classification with regularization
+* Download slides in Persian ([pdf]()) ([video]())
+#### Furthur Reading
+
 ### Chapter 6: Neural Networks
 ### Chapter 7: Support Vector Machines
 ### Chapter 8: Clustering
