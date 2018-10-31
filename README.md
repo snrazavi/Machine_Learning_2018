@@ -39,6 +39,11 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
   * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 119-128
 
 ### Chapter 5: Regularization
+* Overfitting and Regularization
+* L2-Regularization (Ridge)
+* L1-Regularization (Lasso)
+* Regression with regularization
+* Classification with regularization
 ### Chapter 6: Neural Networks
 ### Chapter 7: Support Vector Machines
 ### Chapter 8: Clustering
