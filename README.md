@@ -6,25 +6,25 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 
 ## Contents:
 ### Chapter 1: Introduction
-* download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/1Introduction2018.pdf))
+* download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/1Introduction2018.pdf)) ([video](https://youtu.be/kgwDP35InuQ))
 ### Chapter 2: Regression
 * Linear regression
-* Gradient descent algorithm
+* Gradient descent algorithm ([video](https://youtu.be/LSOHgEDDN_Y))
 * Multi-variable linear regression
-* Polynomial regression
+* Polynomial regression ([video](https://youtu.be/bS5QFhQLQn8))
 * Normal equation
 * Locally weighted regression
-* Probabilistic interpretation
+* Probabilistic interpretation ([video](https://youtu.be/ye_cuOMJhSs))
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/2Regression2018-1.pdf))
 ### Chapter 3: Python and NumPy
 * Python basics
 * Creating vectors and matrices in `numpy`
 * Reading and writing data from/to files
-* Matrix operations
+* Matrix operations ([video](https://youtu.be/F4eEBiDnx-o))
 * Colon (:) operator
-* Plotting using `matplotlib`
+* Plotting using `matplotlib` ([video](https://youtu.be/0yo2czPtOWY))
 * Control structures in python
-* Implementing linear regression cost function
+* Implementing linear regression cost function ([video](https://youtu.be/E-31_GpmVug))
 ### Chapter 4: Logistic Regression
 * Classification and logistic regression
 * Probabilistic interpretation
@@ -32,13 +32,22 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Logistic regression and gradient descent
 * Multi-class logistic regression
 * Advanced optimization methods
-* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/4Logistic-Regression_2018-1.pdf))
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/4Logistic-Regression_2018-1.pdf)) ([video](https://youtu.be/QXfLd5AOgls))
 #### Furthur Reading
   * [Artificial Intelligence: A Modern Approach (3rd Edition)](http://aima.cs.berkeley.edu/), pages 725-727
   * [An Introduction to Statistical Learning: with Applications in R](http://www.amazon.com/dp/1461471370?tag=inspiredalgor-20), pages 130-137
   * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 119-128
 
 ### Chapter 5: Regularization
+* Overfitting and Regularization
+* L2-Regularization (Ridge)
+* L1-Regularization (Lasso)
+* Regression with regularization
+* Classification with regularization
+* Download slides in Persian ([pdf]()) ([video]())
+#### Furthur Reading
+ * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 61-68
+ 
 ### Chapter 6: Neural Networks
 ### Chapter 7: Support Vector Machines
 ### Chapter 8: Clustering
@@ -55,8 +64,8 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 
 ## Assignments:
 1. Regression and Gradient Descent
-2. Classification and Logistic Regression
-3. Regularization
+2. Classification, Logistic Regression and Regularization
+3. Multi-Class Logistic Regression
 4. Neural Networks Training
 5. Neural Networks Implementing
 5. Clustering
