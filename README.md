@@ -44,7 +44,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * L1-Regularization (Lasso)
 * Regression with regularization
 * Classification with regularization
-* Download slides in Persian ([pdf]()) ([video]())
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/5-Regularization_2018.pdf)) ([video]())
 #### Furthur Reading
  * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 61-68
  
