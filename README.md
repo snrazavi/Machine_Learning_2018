@@ -52,6 +52,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Milti-class logistic regression
 * Softmax classifier
 * Training softmax classifier
+* Geometric interpretation
 * Non-linear classification
 * Neural Networks
 ### Chapter 7: Support Vector Machines
