@@ -48,7 +48,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 #### Furthur Reading
  * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 61-68
  
-### Chapter 6: Neural Networks
+### Chapter 6: Neural Networks ([video](https://youtu.be/ZSGjtQW5kVc))
 * Milti-class logistic regression
 * Softmax classifier
 * Training softmax classifier
