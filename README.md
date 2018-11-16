@@ -55,6 +55,11 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Geometric interpretation
 * Non-linear classification
 * Neural Networks
+* Training neural networks: Backpropagation
+* Training neural networks: advanced optimization methods
+* Gradient checking
+* Mini-batch gradient descent
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/6-Neural_Networks_2018.pdf))
 ### Chapter 7: Support Vector Machines
 ### Chapter 8: Clustering
 ### Chapter 9: PCA
