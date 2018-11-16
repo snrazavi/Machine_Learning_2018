@@ -5,8 +5,8 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * [YouTube Videos (in Persian)](https://www.youtube.com/playlist?list=PLW529xl11jnnupZKT5Og4pwHPoRFQRQz_)
 
 ## Contents:
-### Chapter 1: Introduction
-* download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/1Introduction2018.pdf)) ([video](https://youtu.be/kgwDP35InuQ))
+### Chapter 1: Introduction ([video](https://youtu.be/kgwDP35InuQ))
+* download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/1Introduction2018.pdf)) 
 ### Chapter 2: Regression
 * Linear regression
 * Gradient descent algorithm ([video](https://youtu.be/LSOHgEDDN_Y))
@@ -25,26 +25,26 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Plotting using `matplotlib` ([video](https://youtu.be/0yo2czPtOWY))
 * Control structures in python
 * Implementing linear regression cost function ([video](https://youtu.be/E-31_GpmVug))
-### Chapter 4: Logistic Regression
+### Chapter 4: Logistic Regression ([video](https://youtu.be/QXfLd5AOgls))
 * Classification and logistic regression
 * Probabilistic interpretation
 * Logistic regression cost function
 * Logistic regression and gradient descent
 * Multi-class logistic regression
 * Advanced optimization methods
-* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/4Logistic-Regression_2018-1.pdf)) ([video](https://youtu.be/QXfLd5AOgls))
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/4Logistic-Regression_2018-1.pdf)) 
 #### Furthur Reading
   * [Artificial Intelligence: A Modern Approach (3rd Edition)](http://aima.cs.berkeley.edu/), pages 725-727
   * [An Introduction to Statistical Learning: with Applications in R](http://www.amazon.com/dp/1461471370?tag=inspiredalgor-20), pages 130-137
   * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 119-128
 
-### Chapter 5: Regularization
+### Chapter 5: Regularization ([video](https://youtu.be/Cn1Dyk7FZVM))
 * Overfitting and Regularization
 * L2-Regularization (Ridge)
 * L1-Regularization (Lasso)
 * Regression with regularization
 * Classification with regularization
-* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/5-Regularization_2018.pdf)) ([video]())
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/5-Regularization_2018.pdf)) 
 #### Furthur Reading
  * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20), pages 61-68
  
