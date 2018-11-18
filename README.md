@@ -60,6 +60,15 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Gradient checking
 * Mini-batch gradient descent
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/6-Neural_Networks_2018.pdf))
+
+#### Related Videos:
+* [Step by step Implementation of a multi-layer neural network in Python](https://youtu.be/BnREVEmc2b4)
+* [Backpropagation algorithm: Step by step example](https://youtu.be/9JKXFWzf0yc)
+* [Activation functions (Sigmoid, Tanh, ReLU, PReLU, Maxout) and weight initialization methods](https://youtu.be/MdDIVaM6AlA)
+* [How to solve problems using neural networks](https://youtu.be/PVobcS4TA1s)
+* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://youtu.be/xZu3wNn4uKY), ([paper](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+* [Neurons and how they work](https://youtu.be/c5cab4hgmoE)
+
 ### Chapter 7: Support Vector Machines
 ### Chapter 8: Clustering
 ### Chapter 9: PCA
