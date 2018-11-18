@@ -66,7 +66,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * [Backpropagation algorithm: Step by step example](https://youtu.be/9JKXFWzf0yc)
 * [Activation functions (Sigmoid, Tanh, ReLU, PReLU, Maxout) and weight initialization methods](https://youtu.be/MdDIVaM6AlA)
 * [How to solve problems using neural networks](https://youtu.be/PVobcS4TA1s)
-* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://youtu.be/xZu3wNn4uKY), [paper](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://youtu.be/xZu3wNn4uKY)
 * [Neurons and how they work](https://youtu.be/c5cab4hgmoE)
 
 #### Online Books:
