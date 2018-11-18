@@ -69,6 +69,9 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://youtu.be/xZu3wNn4uKY), [paper](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 * [Neurons and how they work](https://youtu.be/c5cab4hgmoE)
 
+#### Online Books:
+* [Neural Networks and Deep Learning; Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+
 ### Chapter 7: Support Vector Machines
 ### Chapter 8: Clustering
 ### Chapter 9: PCA
