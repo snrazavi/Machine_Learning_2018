@@ -59,7 +59,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Training neural networks: advanced optimization methods
 * Gradient checking
 * Mini-batch gradient descent
-* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/6-Neural_Networks_2018.pdf))
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/6-Neural_Networks_2018-1.pdf))
 
 #### Demo:
 * [Train a neural network in your browser](https://playground.tensorflow.org/)
