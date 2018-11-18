@@ -54,7 +54,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Training softmax classifier
 * Geometric interpretation
 * Non-linear classification
-* Neural Networks
+* Neural Networks ([video: part 2](https://youtu.be/x0IDwEREdQg))
 * Training neural networks: Backpropagation
 * Training neural networks: advanced optimization methods
 * Gradient checking
