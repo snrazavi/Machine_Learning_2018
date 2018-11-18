@@ -61,6 +61,9 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * Mini-batch gradient descent
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/6-Neural_Networks_2018.pdf))
 
+#### Demo:
+* [Train a neural network in your browser](https://playground.tensorflow.org/)
+
 #### Related Videos:
 * [Step by step Implementation of a multi-layer neural network in Python](https://youtu.be/BnREVEmc2b4)
 * [Backpropagation algorithm: Step by step example](https://youtu.be/9JKXFWzf0yc)
@@ -69,8 +72,9 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://youtu.be/xZu3wNn4uKY)
 * [Neurons and how they work](https://youtu.be/c5cab4hgmoE)
 
-#### Online Books:
-* [Neural Networks and Deep Learning; Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+#### Free Online Books:
+* [Neural Networks and Deep Learning; Michael Nielsen](http://neuralnetworksanddeeplearning.com/): This book is a very good place to start learning about neural networks and deep learning. 
+[Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/): For a more technical review of neural networks and deep learning, I recommend this book. 
 
 ### Chapter 7: Support Vector Machines
 ### Chapter 8: Clustering
