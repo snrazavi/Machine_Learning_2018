@@ -74,7 +74,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 
 #### Free Online Books:
 * [Neural Networks and Deep Learning; Michael Nielsen](http://neuralnetworksanddeeplearning.com/): This book is a very good place to start learning about neural networks and deep learning. 
-[Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/): For a more technical review of neural networks and deep learning, I recommend this book. 
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/): For a more technical review of neural networks and deep learning, I recommend this book. 
 
 ### Chapter 7: Support Vector Machines
 ### Chapter 8: Clustering
