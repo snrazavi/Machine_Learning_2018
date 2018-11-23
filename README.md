@@ -85,7 +85,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Non-linear classification: soft margin
 * Non-linear classification: kernel trick
 * Multi-class SVM
-* Download slides in persian 
+* Download slides in persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/7Support_Vector_Machines_Part1_2018.pdf))
 
 #### Furthur Reading
 
