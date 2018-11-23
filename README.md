@@ -1,12 +1,14 @@
-# Machine_Learning_2018
-Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018).
+# Machine Learning Course (Fall 2018)
+Codes and Projects for Machine Learning Course, University of Tabriz.
 
 * [Course Website](http://www.snrazavi.ir/ml-2018/)
 * [YouTube Videos (in Persian)](https://www.youtube.com/playlist?list=PLW529xl11jnnupZKT5Og4pwHPoRFQRQz_)
 
-## Contents:
+# Contents:
 ### Chapter 1: Introduction ([video](https://youtu.be/kgwDP35InuQ))
 * download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/1Introduction2018.pdf)) 
+
+## Supervised Learning
 ### Chapter 2: Regression
 * Linear regression
 * Gradient descent algorithm ([video](https://youtu.be/LSOHgEDDN_Y))
@@ -77,6 +79,18 @@ Codes and Projects for Machine Learning Course, University of Tabriz (Fall 2018)
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/): For a more technical review of neural networks and deep learning, I recommend this book. 
 
 ### Chapter 7: Support Vector Machines
+* Motivation: optimal decision boundary
+* Support vectors and margin
+* Objective function formulation: primal and dual
+* Non-linear classification: soft margin
+* Non-linear classification: kernel trick
+* Multi-class SVM
+* Download slides in persian 
+
+#### Furthur Reading
+
+## Unsupervided Learning
+
 ### Chapter 8: Clustering
 ### Chapter 9: PCA
 ### Chapter 10: Anomally Detection
