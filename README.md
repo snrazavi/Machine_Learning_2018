@@ -58,7 +58,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Non-linear classification
 * Neural Networks ([video: part 2](https://youtu.be/x0IDwEREdQg))
 * Training neural networks: Backpropagation
-* Training neural networks: advanced optimization methods
+* Training neural networks: advanced optimization methods ([video: part 3](https://youtu.be/oaJGybYklHc))
 * Gradient checking
 * Mini-batch gradient descent
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/6-Neural_Networks_2018-1.pdf))
