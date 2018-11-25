@@ -79,7 +79,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/): For a more technical review of neural networks and deep learning, I recommend this book. 
 
 ### Chapter 7: Support Vector Machines
-* Motivation: optimal decision boundary
+* Motivation: optimal decision boundary ([video: part 1](https://youtu.be/nYXgC4xKmiM))
 * Support vectors and margin
 * Objective function formulation: primal and dual
 * Non-linear classification: soft margin
