@@ -82,7 +82,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Motivation: optimal decision boundary ([video: part 1](https://youtu.be/nYXgC4xKmiM))
 * Support vectors and margin
 * Objective function formulation: primal and dual
-* Non-linear classification: soft margin
+* Non-linear classification: soft margin ([video: part 2](https://youtu.be/BF3Z39CJcG8))
 * Non-linear classification: kernel trick
 * Multi-class SVM
 * Download slides in persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/7Support_Vector_Machines_2018.pdf))
