@@ -95,6 +95,16 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 ## Unsupervided Learning
 
 ### Chapter 8: Clustering
+* Supervised vs unsupervised learning
+* Clustering
+* K-Means clustering algorithm (demo)
+* Determining number of clusters: Elbow method
+* Postprocessing methods: Merge and Split clusters
+* Bisectioning clustering
+* Hierarchical clustering
+* Application 1: Clustering digits
+* Application 2: Image Compression
+
 ### Chapter 9: PCA
 ### Chapter 10: Anomally Detection
 ### Chapter 11: Recommender Systems
