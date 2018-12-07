@@ -104,6 +104,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Hierarchical clustering
 * Application 1: Clustering digits
 * Application 2: Image Compression
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/8Clustering_2018.pdf))
 
 ### Chapter 9: PCA
 ### Chapter 10: Anomally Detection
