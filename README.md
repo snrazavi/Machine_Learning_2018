@@ -58,7 +58,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Non-linear classification
 * Neural Networks ([video: part 2](https://youtu.be/x0IDwEREdQg))
 * Training neural networks: Backpropagation
-* Training neural networks: advanced optimization methods
+* Training neural networks: advanced optimization methods ([video: part 3](https://youtu.be/oaJGybYklHc))
 * Gradient checking
 * Mini-batch gradient descent
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/6-Neural_Networks_2018-1.pdf))
@@ -79,19 +79,33 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/): For a more technical review of neural networks and deep learning, I recommend this book. 
 
 ### Chapter 7: Support Vector Machines
-* Motivation: optimal decision boundary
+* Motivation: optimal decision boundary ([video: part 1](https://youtu.be/nYXgC4xKmiM))
 * Support vectors and margin
 * Objective function formulation: primal and dual
-* Non-linear classification: soft margin
+* Non-linear classification: soft margin ([video: part 2](https://youtu.be/BF3Z39CJcG8))
 * Non-linear classification: kernel trick
 * Multi-class SVM
-* Download slides in persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/7Support_Vector_Machines_Part1_2018.pdf))
+* Download slides in persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/7Support_Vector_Machines_2018.pdf))
+
+#### Demo:
+* [SVM in javascript](https://cs.stanford.edu/~karpathy/svmjs/demo/)
 
 #### Furthur Reading
 
 ## Unsupervided Learning
 
 ### Chapter 8: Clustering
+* Supervised vs unsupervised learning
+* Clustering
+* K-Means clustering algorithm (demo)
+* Determining number of clusters: Elbow method
+* Postprocessing methods: Merge and Split clusters
+* Bisectioning clustering
+* Hierarchical clustering
+* Application 1: Clustering digits
+* Application 2: Image Compression
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/8Clustering_2018.pdf))
+
 ### Chapter 9: PCA
 ### Chapter 10: Anomally Detection
 ### Chapter 11: Recommender Systems
