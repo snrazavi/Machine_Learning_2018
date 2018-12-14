@@ -106,7 +106,13 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Application 2: Image Compression
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/8Clustering_2018.pdf))
 
-### Chapter 9: PCA
+### Chapter 9: Dimensionality Reduction and PCA
+* Introduction to PCA
+* PCA implementation in python
+* PCA Applications
+* Singular Value Decomposition (SVD)
+* Downloas slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/9-DimensionalityReduction_2018.pdf))
+
 ### Chapter 10: Anomally Detection
 ### Chapter 11: Recommender Systems
 
