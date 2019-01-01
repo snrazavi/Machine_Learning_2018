@@ -119,12 +119,23 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Anoamly detection using probabilitic modelling
 * Uni-variate normal distribution for anomaly detection
 * Multi-variate normal distribution for anomaly detection
-* Evaluation mesures (TP, FP, TN, FN, Precision, Recall, F-score)
+* Evaluation measures (TP, FP, TN, FN, Precision, Recall, F-score)
 * Anomaly detection as one-class classification
 * Classification vs anomaly detection
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/10AnomalyDetection.pdf))
 
 ### Chapter 11: Recommender Systems
+* Introduction to recommender systems
+* Collaborative filtering approach
+ * User-based collaborative filtering
+ * Item-based collaborative filtering
+* Similarity measures (Pearson, Cosine, Euclidian)
+* Cold start problem
+* Singular value decomposition
+* Content-based recommendation
+* Cost function and minimization
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/11RecommenderSystems.pdf))
+
 
 ## Other Useful Resources
 * Optimization: [Convex Optimization, Stephan Boyd, Stanford](http://web.stanford.edu/~boyd/cvxbook/)
