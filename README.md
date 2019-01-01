@@ -119,6 +119,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Anoamly detection using probabilitic modelling
 * Uni-variate normal distribution for anomaly detection
 * Multi-variate normal distribution for anomaly detection
+* Evaluation mesures (TP, FP, TN, FN, Precision, Recall, F-score)
 * Anomaly detection as one-class classification
 * Classification vs anomaly detection
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/10AnomalyDetection.pdf))
