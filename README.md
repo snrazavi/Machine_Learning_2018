@@ -114,6 +114,15 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Downloas slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/9-DimensionalityReduction_2018.pdf))
 
 ### Chapter 10: Anomally Detection
+* Intoduction to anomaly detection
+* Some applications (security, manufacturing, fraud detection)
+* Anoamly detection using probabilitic modelling
+* Uni-variate normal distribution for anomaly detection
+* Multi-variate normal distribution for anomaly detection
+* Anomaly detection as one-class classification
+* Classification vs anomaly detection
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/10AnomalyDetection.pdf))
+
 ### Chapter 11: Recommender Systems
 
 ## Other Useful Resources
