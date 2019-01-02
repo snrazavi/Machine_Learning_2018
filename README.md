@@ -94,7 +94,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 
 ## Unsupervided Learning
 
-### Chapter 8: Clustering
+### Chapter 8: Clustering ([video](https://youtu.be/M_KLKitifyQ))
 * Supervised vs unsupervised learning
 * Clustering
 * K-Means clustering algorithm (demo)
