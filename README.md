@@ -94,10 +94,48 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 
 ## Unsupervided Learning
 
-### Chapter 8: Clustering
-### Chapter 9: PCA
+### Chapter 8: Clustering ([video](https://youtu.be/M_KLKitifyQ))
+* Supervised vs unsupervised learning
+* Clustering
+* K-Means clustering algorithm (demo)
+* Determining number of clusters: Elbow method
+* Postprocessing methods: Merge and Split clusters
+* Bisectioning clustering
+* Hierarchical clustering
+* Application 1: Clustering digits
+* Application 2: Image Compression
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/8Clustering_2018.pdf))
+
+### Chapter 9: Dimensionality Reduction and PCA
+* Introduction to PCA
+* PCA implementation in python
+* PCA Applications
+* Singular Value Decomposition (SVD)
+* Downloas slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/9-DimensionalityReduction_2018.pdf))
+
 ### Chapter 10: Anomally Detection
+* Intoduction to anomaly detection
+* Some applications (security, manufacturing, fraud detection)
+* Anoamly detection using probabilitic modelling
+* Uni-variate normal distribution for anomaly detection
+* Multi-variate normal distribution for anomaly detection
+* Evaluation measures (TP, FP, TN, FN, Precision, Recall, F-score)
+* Anomaly detection as one-class classification
+* Classification vs anomaly detection
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/10AnomalyDetection.pdf))
+
 ### Chapter 11: Recommender Systems
+* Introduction to recommender systems
+* Collaborative filtering approach
+ * User-based collaborative filtering
+ * Item-based collaborative filtering
+* Similarity measures (Pearson, Cosine, Euclidian)
+* Cold start problem
+* Singular value decomposition
+* Content-based recommendation
+* Cost function and minimization
+* Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/11RecommenderSystems.pdf))
+
 
 ## Other Useful Resources
 * Optimization: [Convex Optimization, Stephan Boyd, Stanford](http://web.stanford.edu/~boyd/cvxbook/)
