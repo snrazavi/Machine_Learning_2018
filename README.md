@@ -124,7 +124,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Classification vs anomaly detection
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/10AnomalyDetection.pdf))
 
-### Chapter 11: Recommender Systems ([Video:](https://youtu.be/wyBkGbxatew))
+### Chapter 11: Recommender Systems ([Video](https://youtu.be/wyBkGbxatew))
 * Introduction to recommender systems
 * Collaborative filtering approach
  * User-based collaborative filtering
