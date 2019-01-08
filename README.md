@@ -113,7 +113,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Singular Value Decomposition (SVD)
 * Downloas slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/9-DimensionalityReduction_2018.pdf))
 
-### Chapter 10: Anomally Detection (video: [Part 1](https://youtu.be/UbzQBeCLGh8) [Part 2](https://youtu.be/UbzQBeCLGh8))
+### Chapter 10: Anomally Detection (video: [Part 1](https://youtu.be/UbzQBeCLGh8), [Part 2](https://youtu.be/UbzQBeCLGh8))
 * Intoduction to anomaly detection
 * Some applications (security, manufacturing, fraud detection)
 * Anoamly detection using probabilitic modelling
