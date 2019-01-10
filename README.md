@@ -106,7 +106,7 @@ Codes and Projects for Machine Learning Course, University of Tabriz.
 * Application 2: Image Compression
 * Download slides in Persian ([pdf](http://www.snrazavi.ir/wp-content/uploads/2018/10/8Clustering_2018.pdf))
 
-### Chapter 9: Dimensionality Reduction and PCA
+### Chapter 9: Dimensionality Reduction and PCA ([video](https://youtu.be/c0jCvF4dreQ))
 * Introduction to PCA
 * PCA implementation in python
 * PCA Applications
